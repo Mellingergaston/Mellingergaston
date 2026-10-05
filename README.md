@@ -40,7 +40,7 @@ A lo largo de la carrera y de mis proyectos trabajé con desarrollo web, arquite
 [![Producción](https://img.shields.io/badge/Estado-En%20producción-16a34a?style=flat-square)](https://zonea.app)
 [![Web](https://img.shields.io/badge/Web-zonea.app-10172a?style=flat-square&logo=googlechrome&logoColor=white)](https://zonea.app)
 
-**Zonea** es una plataforma web que desarrollamos desde cero junto a [Lucas Bertone](https://github.com/Lucasbertone02) para automatizar la organización de torneos de pádel.
+**Zonea** es una plataforma web que desarrollamos desde cero, para automatizar la organización de torneos de pádel.
 
 El sistema reemplaza gran parte del trabajo manual del organizador: genera zonas respetando rankings, arma llaves, asigna horarios considerando disponibilidad de jugadores y canchas, actualiza rankings y publica toda la información del torneo para los jugadores.
 
