@@ -7,8 +7,13 @@
 Construyo productos de software de punta a punta: desde el análisis del problema y el diseño de la arquitectura hasta la implementación, testing y deploy.
 
 [![Zonea](https://img.shields.io/badge/Zonea-zonea.app-10172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zonea.app)
-![UNS](https://img.shields.io/badge/UNS-Ingeniería%20en%20Sistemas-1e3a8a?style=for-the-badge)
-![Argentina](https://img.shields.io/badge/Bahía%20Blanca-Argentina-74acdf?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gastón%20Mellinger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-mellinger-14997542a/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaston.mellinger1@gmail.com)
+
+<br>
+
+![UNS](https://img.shields.io/badge/UNS-Ingeniería%20en%20Sistemas-1e3a8a?style=flat-square)
+![Argentina](https://img.shields.io/badge/Bahía%20Blanca-Argentina-74acdf?style=flat-square)
 
 </div>
 
@@ -379,19 +384,13 @@ Más allá de las tecnologías concretas, me interesa entender y aplicar los con
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gastón%20Mellinger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-mellinger-14997542a/)
+
+[![Email](https://img.shields.io/badge/Email-gaston.mellinger1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaston.mellinger1@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Mellingergaston-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mellingergaston)
 
 [![Zonea](https://img.shields.io/badge/Zonea-zonea.app-10172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zonea.app)
-
-<!--
-
-Cuando tengas LinkedIn y mail definidos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gastón%20Mellinger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
-
--->
 
 </div>
 
